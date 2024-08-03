@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
-    <img width=1000px height=1000px src="https://i.pinimg.com/474x/52/6b/cf/526bcf8e45c162dc18d72fcbc17864c3.jpg" alt="Logo">
+    <img width=366px height=620px src="https://i.pinimg.com/474x/52/6b/cf/526bcf8e45c162dc18d72fcbc17864c3.jpg" alt="Logo">
   </a>
 </p>
 
