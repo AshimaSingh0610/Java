@@ -1,3 +1,4 @@
+package Basics;
 //! Notes at the end
 
 import java.util.Scanner; //! Importing the Scanner class from the java.util package for reading input

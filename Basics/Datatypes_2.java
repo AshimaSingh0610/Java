@@ -1,3 +1,4 @@
+package Basics;
 //! Notes at the end
 //! Use This => cd "e:\PROGRAMS\Java\" && javac -encoding UTF-8 Datatypes_2.java && java Datatypes_2 
 //! as UTf 8 encoding avoids error due to  ✅ n ❌
