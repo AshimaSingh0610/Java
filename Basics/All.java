@@ -1,4 +1,4 @@
-package Basics;
+
 
 public class All {
 
@@ -17,10 +17,23 @@ public class All {
 
         //! ===============================
 
+        /* 
+        * Explicit Typecasting
+        */
+
+        int i = 10;
+        System.out.println(i);
+
+        double d = (double)i;
+        System.out.println(i);
+        System.out.println(d);
+
+        //! ===============================
+
         
 
-
     }
+
 
 
     
